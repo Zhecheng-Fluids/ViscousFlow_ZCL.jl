@@ -8,8 +8,8 @@ using UnPack
 
 
 export ViscousIncompressibleFlowProblem
-export setup_grid, viscousflow_system, setup_problem, surface_point_spacing,
-        surface_velocity_in_translating_frame!
+# export setup_grid, viscousflow_system, setup_problem, surface_point_spacing,
+#         surface_velocity_in_translating_frame!
 
 #= Supporting functions =#
 
